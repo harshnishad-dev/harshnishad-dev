@@ -18,7 +18,6 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=harshnishad-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Relocation%20%26%20Remote-0e75b6?style=flat" alt="Open to relocation and remote" />
 </p>
 
 </div>
