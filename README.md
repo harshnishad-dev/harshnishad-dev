@@ -190,6 +190,6 @@ Resolved website issues, client-server connectivity problems, and data-entry sup
 
 <div align="center">
 
-### ✨ “Code is not just my skill, it’s my canvas — I build products that make an impact.”
+### 🚀 “From idea to production — I build software that solves real problems.”
 
 </div>
