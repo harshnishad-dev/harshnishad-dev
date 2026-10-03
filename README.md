@@ -183,7 +183,6 @@ Resolved website issues, client-server connectivity problems, and data-entry sup
 - 💼 LinkedIn: [linkedin.com/in/harshnishad1222](https://www.linkedin.com/in/harshnishad1222)
 - 🐙 GitHub: [github.com/harshnishad-dev](https://github.com/harshnishad-dev)
 - 📧 Email: [harshnishad1222@gmail.com](mailto:harshnishad1222@gmail.com)
-- 📱 WhatsApp: [+91 9935053885](https://wa.me/919935053885)
 
 ---
 
