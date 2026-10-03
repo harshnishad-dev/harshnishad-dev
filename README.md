@@ -42,8 +42,7 @@ Need a developer or a technology partner? I build:
 - ⚙️ **Automation** — repetitive business tasks, notifications, and workflows
 - 🚀 **Deployment & Maintenance** — domain, SSL, hosting, monitoring, and support
 
-📧 **[harshnishad1222@gmail.com](mailto:harshnishad1222@gmail.com)** · 📱 **[WhatsApp +91 9935053885](https://wa.me/919935053885)**
-
+📧 **[harshnishad1222@gmail.com](mailto:harshnishad1222@gmail.com)** · 
 ---
 
 ## 🏢 My Company
